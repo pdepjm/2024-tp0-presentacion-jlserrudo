@@ -4,9 +4,11 @@ Nombre y Apellido: Jose Luis Serrudo
 # Legajo
 Nro de Legajo: 1364686
 
-# Acerca sobre mi
+![mi foto](Luis%20S.JPG)
 
+# Acerca sobre mi
 <ul>
+<li>Me conocen mas por Luis</li>
 <li>Vivo en Isidro Casanova</li>
 <li>Me gusta el futbol, andar en bicicleta, handball y ver series en netflix</li>
 <li>Trabajo en el area de admnistracion en el Partido de Moron</li>
